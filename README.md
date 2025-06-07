@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3CF7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Hi,+I'm+Yuto+Maki;I'm+a+Master's+Student+in+CS.;I+love+C%2B%2B+and+system+design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3CF7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Hi,+I'm+Yuto+Maki;I'm+a+Master's+Student+in+CS.)](https://git.io/typing-svg)
 
 ---
 
